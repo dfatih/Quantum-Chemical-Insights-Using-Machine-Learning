@@ -106,7 +106,6 @@ References
 ----------
 
 *   [QM7 Dataset](http://quantum-machine.org/data/qm7.mat)
-*   Montavon, G. (2024). _Lab Machine Learning for Data Science, Freie Universität Berlin._
 
 * * *
 
